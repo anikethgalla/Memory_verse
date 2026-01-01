@@ -26,7 +26,7 @@ Memoryverse is a Unity-based interactive project that integrates Python-generate
 - └── README.md
 
 
-## ▶How to Run
+## How to Run
 1. Clone the repository
 2. Open `Memoryverse/` in Unity Hub
 3. Run required Python scripts if needed
